@@ -1,0 +1,119 @@
+**Hey Kalvians**
+
+Welcome to this lesson on setting up our development environment for coding.
+
+> This session will help you set up and configure your **VS Code IDE** and **GitHub account**, the essential tools you'll need for your upcoming journey in **Front-end web development**.
+
+## Learning outcomes
+
+By the end of this session, you will be able to:
+
+- Install **Visual Studio Code**
+- Customize VS Code with **themes**, and **fonts**
+- Feel confident navigating your coding workspace
+- Set up a **GitHub** account as your personal code portfolio
+
+---
+
+## Let’s imagine for a second..
+
+> Have you ever used any editor like Notepad or Sublime to write code?
+
+> Now imagine you're about to paint a masterpiece. Would you begin without setting up your studio?
+
+- _Your laptop is your studio_
+- _VS Code is your canvas_
+- _GitHub is your gallery_
+
+---
+
+## Why this setup matters
+
+- Think of your tools like your phone's home screen. You customize it, right?  
+- The same goes for your coding environment — the better it looks and feels, the more fun coding becomes!
+
+---
+
+## Let’s set up VS Code (Hands-on!)
+
+**Step 1: Install VS Code**
+
+- Go to [https://code.visualstudio.com](https://code.visualstudio.com)
+- Download for your OS (Windows / macOS / Linux)
+- Install and open the app!
+
+*Done? You now have the world’s most loved code editor installed!*
+
+---
+
+**Step 2: Customize the look and feel**
+
+**Install extensions**
+
+Go to the **Extensions icon** on the left sidebar.
+
+Search and install:
+
+- `Dracula Official` → (Dark Theme)
+
+> 💡 _After installing, reload VS Code for changes to apply._
+
+**Change theme**
+
+- Open Command Palette: `Ctrl + Shift + P`
+- Type: `Color Theme` → Choose **Dracula**
+
+**Change font size**
+
+- Go to: `File` → `Preferences` → `Settings`
+- Search: `Font Size` → Set it to `16` or `18` for readability
+
+---
+
+## GitHub account setup
+
+> Let’s create your developer identity
+
+**Step 1: Create a GitHub Account**
+
+- Go to [https://github.com](https://github.com)
+- Sign up using your email and password
+- Pick a username (e.g., `dev-coder`, `codebyme`, etc.)
+
+🎯 _Done? Now you're part of a global developer community!_
+
+---
+
+## Let’s reflect
+
+- What theme did you install?
+- What name did you choose for your GitHub account?
+- How does your editor look now?
+
+---
+
+> If you're done, share your GitHub profile link or a screenshot of your customized VS Code in the class chat!
+
+---
+
+## What you just learned
+
+| Tool           | What You Did                    | Why It Matters                       |
+| -------------- | ------------------------------- | ------------------------------------ |
+| VS Code        | Installed & customized it       | A comfortable workspace boosts focus |
+| Extensions     | Added themes, formatter, server | Enhances your coding workflow        |
+| GitHub account | Created your coding identity    | Saves and showcases your work        |
+
+---
+
+## Coming up next
+
+**Setting up Development Environment – II**
+
+In the next lesson, we’ll introduce other productivity enhancing extensions on VS code. 
+*Stay Tuned*
+
+
+✨ It’s where the real fun begins: turning code into instant, interactive results.
+
+
